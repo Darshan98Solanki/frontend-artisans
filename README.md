@@ -63,7 +63,7 @@ Modern authentication frontend built with:
 
 Create a `.env` file in the frontend root:
 
-    VITE_BACKEND_URL=https://backend-artisans.onrender.com
+    VITE_BACKEND_URL=https://your-backend-url
 
 Important: - Must start with `VITE_` - Restart dev server after changing
 `.env`
@@ -83,6 +83,12 @@ Important: - Must start with `VITE_` - Restart dev server after changing
 App runs at:
 
     http://localhost:5173
+Demo email:
+
+    test@example.com
+Password:
+
+    Test@123
 
 ------------------------------------------------------------------------
 
